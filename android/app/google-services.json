@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914847588229",
+    "firebase_url": "https://word-d74ae.firebaseio.com",
+    "project_id": "word-d74ae",
+    "storage_bucket": "word-d74ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914847588229:android:fc03eaa5ef567b0a",
+        "android_client_info": {
+          "package_name": "com.danfein.word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914847588229-ahqmlp9qhfrujkfl60t3e3vn06mrqdle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRpDQoRauCDTD2uXv8dETTEhRLflXG2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
